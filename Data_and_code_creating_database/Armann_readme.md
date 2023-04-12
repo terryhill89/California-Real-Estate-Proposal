@@ -30,5 +30,6 @@ An SQLite database was constructed for this project (Creating_SQLite_Database.ip
  
  ## Example of Leaflet map output
  
-![Screenshot 2023-04-12 at 8 21 19 AM](https://user-images.githubusercontent.com/115322974/231504629-96e0d6a2-e35e-4f2c-8374-f1ae56c4da1b.png)
+![Screenshot 2023-04-12 at 9 20 11 AM](https://user-images.githubusercontent.com/115322974/231520298-f64172cc-fd4e-4fee-b796-7e054252fed2.png)
+
 
