@@ -1,8 +1,5 @@
 ## Data sources for median prices portion of the project (Armann section)
 
-___________________________________________________
-
-## Data tables:
   1) county_facts.csv 
         derived from web scraping of  https://en.wikipedia.org/wiki/List_of_counties_in_California
         (pandas was used for web scraping and code is included (webscraping_county_facts.ipynb)
