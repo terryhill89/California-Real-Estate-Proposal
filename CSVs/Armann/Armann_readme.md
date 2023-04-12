@@ -19,7 +19,8 @@ ___________________________________________________
 ________________________________________________________________
 ## SQLite database
 An SQLite database was constructed for this project (Creating_SQLite_Database.ipynb)
-  * the SQLite database contains four tables each representing the topics covered by the members
+  * the SQLite database contains four tables each representing the topics covered by the members:
+  
           * education (Kyra)
           
           * crime (Terry)
