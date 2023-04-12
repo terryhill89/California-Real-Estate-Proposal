@@ -30,6 +30,8 @@ An SQLite database was constructed for this project (Creating_SQLite_Database.ip
  
  ## Example of Leaflet map output
  
+ JSON data for the outline of the State of California was downloaded from: https://eric.clst.org/assets/wiki/uploads/Stuff/
+ 
 ![Screenshot 2023-04-12 at 9 22 09 AM](https://user-images.githubusercontent.com/115322974/231520736-1dea4ca5-7d30-4d2f-b435-d268fb21705d.png)
 
 
