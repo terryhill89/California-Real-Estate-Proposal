@@ -20,13 +20,13 @@ ________________________________________________________________
 ## SQLite database
 An SQLite database was constructed for this project (Creating_SQLite_Database.ipynb)
   * the SQLite database contains four tables each representing the topics covered by the members
-          Table names: education (Kyra)
-                       crime (Terry)
-                       demographics (Katejoe)
-                       median_prices (Armann)
+          * education (Kyra)
+          * crime (Terry)
+          * demographics (Katejoe)
+          * median_prices (Armann)
                        
  ________________________________________________________________
  
  ## Example of Leaflet map output
  
-
+![Screenshot 2023-04-12 at 7 40 46 AM](https://user-images.githubusercontent.com/115322974/231493401-d46d1c0c-4bae-41a2-9c13-a4d9ee25562c.png)
