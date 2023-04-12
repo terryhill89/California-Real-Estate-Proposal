@@ -21,8 +21,11 @@ ________________________________________________________________
 An SQLite database was constructed for this project (Creating_SQLite_Database.ipynb)
   * the SQLite database contains four tables each representing the topics covered by the members
           * education (Kyra)
+          
           * crime (Terry)
+          
           * demographics (Katejoe)
+          
           * median_prices (Armann)
                        
  ________________________________________________________________
