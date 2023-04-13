@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Basic Map</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
+
+  <!-- Leaflet JavaScript code -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+
+  <!-- d3 JavaScript code -->
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+
+  <!-- chart.js JavaScript code -->
+  <script
+  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
+  </script>
+
+  <!-- map CSS -->
+  <link rel="stylesheet" type="text/css" href="JS_zipcode_Cali_map/style.css">
+
+  <!-- Table formatting -->
+  <META name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+    <STYLE>
+      table, th, td {
+        border: 0px solid LightSlateGray;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 8px;
+      }
+      #regularSize {
+        font-size: 15px;
+        color: white;
+        text-shadow: -1px  1px 2px #000,
+                      1px  2px 6px #000,
+                      1px -1px 0   #000,
+                     -1px -1px 0   #000;
+      }
+    </STYLE>
+</head>
+
+<body style="color:black;background-color:white">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center" style="text-align:center">
+        <h1>Real Estate in California</h1>
+        <p>How do school quality, crime, and demographics relate to real estate costs across California?</p>
+      </div>
+    </div>
+  </div>
+
+  <TABLE style="width:100%">
+    <TR>
+      <TD style="width:33%">
+        <select id="selDataset" onchange="optionChanged(this.value)">
+          <option value="english_2021">English 2021</option>
+          <option value="math_2021">Math 2021</option>
+          <option value="english_2022">English 2022</option>
+          <option value="math_2022">Math 2022</option>
+        </select>
+         
+        <div id="scatter"></div>
+      </TD>
+      <TD style="text-align:center" style="width:33%">
+        Second Chart Here!
+      </TD>
+      <TD style="text-align:center" style="width:33%">
+        Other chart here!
+      </TD>
+    </TR>
+
+  </TABLE>
+
+  <!-- The div where we'll insert our map -->
+  <div id="map"></div>
+
+  <!-- JavaScript file -->
+  <script type="text/javascript" src="JS_zipcode_Cali_map/logic.js"></script>
+
+  <!-- Leaflet heatmap plugin-->
+  <script type="text/javascript" src="JS_zipcode_Cali_map/leaflet-heat.js"></script>
+
+  <!-- Education bubble chart file-->
+  <script type="text/javascript" src="Data_and_code_creating_database/education_Kyra/education.js"></script>
+
+  <!-- Plotly -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+</body>
+
+</html>
