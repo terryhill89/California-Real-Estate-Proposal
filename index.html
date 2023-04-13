@@ -67,7 +67,18 @@
         <div id="scatter"></div>
       </TD>
       <TD style="text-align:center" style="width:33%">
-        Second Chart Here!
+        <select id="selectField" onchange="optionChanged(this.value)">
+          <option value="Incomepercapita">Income per capita</option>
+          <option value="Poverty">Poverty</option>
+          <option value="Medianage">Median Age</option>
+          <option value="Medianhouseholdincome">Median Household Income</option>
+          <option value="Medianhomevalue">Median home value</option>
+          <option value="TotalPopulation">Total population</option>
+          <option value="Transitpublictransport">Transit public transport</option>
+          <!-- add more options for other fields -->
+        </select>
+        <div id="chart"></div>
+
       </TD>
       <TD style="text-align:center" style="width:33%">
         Other chart here!
@@ -87,6 +98,9 @@
 
   <!-- Education bubble chart file-->
   <script type="text/javascript" src="Data_and_code_creating_database/education_Kyra/education.js"></script>
+  
+  <!-- Demographics bar chart file-->
+  <script type="text/javascript" src="JS_zipcode_Cali_map\KJ_java"></script>
 
   <!-- Plotly -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
