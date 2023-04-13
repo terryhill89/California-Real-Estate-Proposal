@@ -1,4 +1,4 @@
-Zipcode,Income per capita,Median household income,Poverty, Median age,Median home value,Median monthly owner cost,Total Population,White Population,Black Population,American Indian Population,Asian Population,Hispanic Population,Population identifying as 2+ races,Percent of transit public transport
+Zipcode,Income_per_capita,Median_household_income,Poverty,Median_age,Median_home_value,Median_monthly_owner_cost,Total_Population,White_Population,Black_Population,American_Indian_Population,Asian_Population,Hispanic_Population,Population_identifying_as_2+_races,Transit_public_transport
 29590,13288.0,30985.0,869.0,39.1,68600.0,1271.0,3543.0,718.0,2617.0,27.0,0.0,346.0,68.0,14.0
 93306,23580.0,54450.0,15853.0,31.3,211100.0,1541.0,74296.0,51869.0,1727.0,1208.0,2455.0,48116.0,5176.0,228.0
 93660,12475.0,39625.0,1057.0,26.7,171700.0,1114.0,4082.0,2231.0,40.0,0.0,0.0,3925.0,142.0,0.0
