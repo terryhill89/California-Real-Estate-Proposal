@@ -18,9 +18,9 @@ An SQLite database was constructed for this project (Creating_SQLite_Database.ip
           
            ## Example of Leaflet map output
 
-## Data sources for median prices portion of the project 
+ 
 # (Armann median_prices)
-
+## Data sources for median prices portion of the project
   1) county_facts.csv 
         derived from web scraping of  https://en.wikipedia.org/wiki/List_of_counties_in_California
         (pandas was used for web scraping and code is included (webscraping_county_facts.ipynb)
