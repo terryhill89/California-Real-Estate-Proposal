@@ -30,6 +30,7 @@ An SQLite database was constructed for this project (Creating_SQLite_Database.ip
   
   3) median_mortgage.csv 
         derived from download from https://data.census.gov/
+        this has median prices of homes according to zip code 
         
   4) zipdemos 
         derived from https://simplemaps.com/data/us-zips
