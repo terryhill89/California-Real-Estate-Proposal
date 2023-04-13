@@ -3,7 +3,7 @@ function numberWithCommas(x) {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 // Load the JSON data using d3.json()
-d3.csv('median_prices.csv')
+d3.csv('JS_zipcode_Cali_map/median_prices.csv')
   .then(data => {
     // Define the layers
     var lowPriceLayer = L.layerGroup();

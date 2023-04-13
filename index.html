@@ -20,18 +20,77 @@
 
 
   <!-- Our CSS -->
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="JS_zipcode_Cali_map/style.css">
+
+  <!-- Table formatting -->
+  <META name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+    <STYLE>
+      table, th, td {
+        border: 0px solid LightSlateGray;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 8px;
+      }
+      #regularSize {
+        font-size: 15px;
+        color: white;
+        text-shadow: -1px  1px 2px #000,
+                      1px  2px 6px #000,
+                      1px -1px 0   #000,
+                     -1px -1px 0   #000;
+      }
+    </STYLE>
 </head>
 
 <body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center" style="text-align:center">
+        <h1>Real Estate in California</h1>
+        <p>How do school quality, crime, and demographics relate to real estate costs across California?</p>
+      </div>
+    </div>
+  </div>
+
+  <TABLE style="width:100%">
+    <TR>
+      <TD style="width:33%">
+        <select id="selDataset" onchange="optionChanged(this.value)">
+          <option value="english_2021">English 2021</option>
+          <option value="math_2021">Math 2021</option>
+          <option value="english_2022">English 2022</option>
+          <option value="math_2022">Math 2022</option>
+        </select>
+         
+        <div id="scatter"></div>
+      </TD>
+      <TD style="text-align:center" style="width:33%">
+        Second Chart Here!
+      </TD>
+      <TD style="text-align:center" style="width:33%">
+        Other chart here!
+      </TD>
+    </TR>
+
+  </TABLE>
+  
   <!-- The div where we'll insert our map -->
   <div id="map"></div>
 
   <!-- JavaScript file -->
-  <script type="text/javascript" src="logic.js"></script>
+  <script type="text/javascript" src="JS_zipcode_Cali_map/logic.js"></script>
 
   <!-- Leaflet heatmap plugin-->
-  <script type="text/javascript" src="leaflet-heat.js"></script>
+  <script type="text/javascript" src="JS_zipcode_Cali_map/leaflet-heat.js"></script>
+
+  <!-- Education bubble chart file-->
+  <script type="text/javascript" src="Data_and_code_creating_database/education_Kyra/education.js"></script>
+
+  <!-- Plotly -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
 </body>
 
 </html>
