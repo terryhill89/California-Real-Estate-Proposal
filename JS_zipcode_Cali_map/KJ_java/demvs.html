@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Demographics</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  
+</head>
+<body>
+  <select id="selectField" onchange="optionChanged(this.value)">
+    <option value="Incomepercapita">Income per capita</option>
+    <option value="Poverty">Poverty</option>
+    <option value="Medianage">Median Age</option>
+    <option value="Medianhouseholdincome">Median Household Income</option>
+    <option value="Medianhomevalue">Median home value</option>
+    <option value="TotalPopulation">Total population</option>
+    <option value="Transitpublictransport">Transit public transport</option>
+    <!-- add more options for other fields -->
+  </select>
+  <div id="bar"></div>
+  <script src="dem.json"></script>
+  <script src="Katejoe_plot.js"></script>
+</body>
+</html>
+
+
