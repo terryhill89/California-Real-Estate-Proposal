@@ -1,4 +1,4 @@
-d3.json("dem.json").then(function(data) {
+d3.json("JS_zipcode_Cali_map/KJ_java/dem.json").then(function(data) {
     console.log(data);
     generateData(data, "Poverty");
 });
@@ -27,7 +27,7 @@ function generateData(data, selectedField) {
     }
     buildBarChart(Zipcode, selectedField, //County, 
     Incomepercapita, Medianhouseholdincome, Poverty, Medianage, Medianhomevalue, TotalPopulation, Transitpublictransport);
-    //buildBubbleChart(medianHomePrice, passingStudents, numberStudents);
+
 }
 function buildBarChart(Zipcode, selectedField, //County, 
 Incomepercapita, Medianhouseholdincome, Poverty, Medianage, Medianhomevalue, TotalPopulation, Transitpublictransport) {
@@ -49,8 +49,15 @@ Incomepercapita, Medianhouseholdincome, Poverty, Medianage, Medianhomevalue, Tot
         let traceData = [trace1];
         Plotly.newPlot("bar", traceData, layout);
 }
-function optionChanged(selectedField) {
-    d3.json("dem.json").then(function(data) {
+
+d3.selectAll("#selectField").on("change", optionChanged)
+
+function optionChanged() {
+    let menu = d3.select("#selectField");
+
+    let selectedField = menu.property("value")
+
+    d3.json("JS_zipcode_Cali_map/KJ_java/dem.json").then(function(data) {
         generateData(data, selectedField);
     });
 };
