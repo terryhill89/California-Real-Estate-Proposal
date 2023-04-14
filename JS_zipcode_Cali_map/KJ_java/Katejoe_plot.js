@@ -1,4 +1,4 @@
-d3.json("JS_zipcode_Cali_map/KJ_java/dem.json").then(function(data) {
+d3.json("dem.json").then(function(data) {
     console.log(data);
     generateData(data, "Poverty");
 });
@@ -23,9 +23,8 @@ function generateData(data, selectedField) {
         Transitpublictransport.push(data[i].Transit_public_transport);
         
     }
-    buildBarChart(Zipcode, selectedField, //County, 
-    Incomepercapita, Medianhouseholdincome, Poverty, Medianage, Medianhomevalue, TotalPopulation, Transitpublictransport);
-
+    buildLineChart(Zipcode, selectedField, Incomepercapita, Medianhouseholdincome, Poverty, Medianage, Medianhomevalue, TotalPopulation, Transitpublictransport);
+    
 }
 function buildLineChart(Zipcode, selectedField, Incomepercapita, Medianhouseholdincome, Poverty, Medianage, Medianhomevalue, TotalPopulation, Transitpublictransport) {
     
@@ -59,15 +58,8 @@ function buildLineChart(Zipcode, selectedField, Incomepercapita, Medianhousehold
       Plotly.newPlot('chart', data, layout);
  
 }
-
-d3.selectAll("#selectField").on("change", optionChanged)
-
-function optionChanged() {
-    let menu = d3.select("#selectField");
-
-    let selectedField = menu.property("value")
-
-    d3.json("JS_zipcode_Cali_map/KJ_java/dem.json").then(function(data) {
+function optionChanged(selectedField) {
+    d3.json("dem.json").then(function(data) {
         generateData(data, selectedField);
     });
 };

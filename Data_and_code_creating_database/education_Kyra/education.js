@@ -4,10 +4,11 @@ const english_2022 = "Data_and_code_creating_database/education_Kyra/english_202
 const math_2022 = "Data_and_code_creating_database/education_Kyra/math_2022.json"
 
 d3.json(english_2021).then(function(data) {
-    makeData(data);
+    console.log(data);
+    generateData(data);
 });
 
-function makeData(data) {
+function generateData(data) {
 
     var medianHomePrice = [];
     var passingStudents = [];
@@ -29,7 +30,7 @@ function buildBubbleChart(medianHomePrice, passingStudents, numberStudents) {
         type: "scatter",
         mode: "markers",
         marker: {
-            size: numberStudents/1.5,
+            size: numberStudents/100,
             color: "blue"
         },
         text: numberStudents
@@ -48,32 +49,27 @@ function buildBubbleChart(medianHomePrice, passingStudents, numberStudents) {
 
         Plotly.newPlot("scatter", traceData, layout);
 }
-d3.selectAll("#selDataset").on("change", updatePlotly)
 
-function updatePlotly() {
-    let dropdownMenu = d3.select("#selDataset");
-
-    let newData = dropdownMenu.property("value");
-
+function optionChanged(newData) {
     if (newData == "english_2021") {
         let dataset = english_2021;
         d3.json(dataset).then(function(data) {
-            makeData(data);
+            generateData(data);
         });
     } else if (newData == "math_2021") {
         let dataset = math_2021;
         d3.json(dataset).then(function(data) {
-            makeData(data);
+            generateData(data);
         });
     } else if (newData == "english_2022") {
         let dataset = english_2022;
         d3.json(dataset).then(function(data) {
-            makeData(data);
+            generateData(data);
         });
     } else {
         let dataset = math_2022;
         d3.json(dataset).then(function(data) {
-            makeData(data);
+            generateData(data);
         });
     };
 };
