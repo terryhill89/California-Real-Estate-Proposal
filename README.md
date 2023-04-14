@@ -71,8 +71,29 @@ My struggle was trying to plot a bar chart to show the crime data. The data was 
 - Orignal CSV - https://openjustice.doj.ca.gov/data
 
 # (KateJoe Demographics)
+Demographic data can play a significant role in understanding real estate trends and patterns. Here are some key demographic factors that can impact the real estate market:
 
+- Age: 
+The age of the population can influence the type of housing that is in demand. For example, as baby boomers retire, they may be more interested in downsizing to smaller homes or moving to retirement communities.
 
+Income per capita: Income levels can affect the affordability of housing in a particular area. Higher-income neighborhoods may have more expensive homes, while lower-income areas may have more affordable housing options.
+ 
+- Household income: 
+Household income levels can impact the affordability of housing in a particular area. Areas with higher median household incomes may have more expensive homes, while lower-income areas may have more affordable housing options. Additionally, areas with higher median household incomes may attract higher-end retail and entertainment options, as well as amenities such as parks, schools, and community centers, which can contribute to the desirability of the neighborhood.
+
+- Home value: 
+Home values are a critical factor in the real estate market. Higher home values can indicate a strong demand for housing in a particular area, while lower home values may suggest a lack of demand or oversupply of housing. Factors that can influence home values include location, neighborhood amenities, school quality, crime rates, and overall economic conditions.
+
+- Transit public transport: 
+Access to public transportation can be an essential factor for many homebuyers and renters, particularly in urban areas. Proximity to transit stations or major transportation hubs can increase the desirability of a property and may be associated with higher property values. Properties located near public transit may also appeal to renters who prioritize walkability and access to amenities.
+
+- Poverty: 
+Poverty can impact the real estate market in significant ways. By understanding the impact of poverty on the demand for housing, as well as the quality and affordability of housing options in different neighborhoods, real estate professionals can make more informed investment and development decisions. Additionally, policymakers and community organizations may take steps to address poverty-related housing challenges through targeted affordable housing programs, economic development initiatives, and other strategies.
+
+- Race and ethnicity: 
+Racial and ethnic diversity can influence the types of housing that are in demand, as well as the areas where people choose to live.
+
+By analyzing demographic data, real estate professionals can gain insights into the needs and preferences of different segments of the population, which can help inform their decision-making and investment strategies.
 
 ![Screenshot 2023-04-13 205336](https://user-images.githubusercontent.com/112741203/231937698-51c5c2f4-e5a0-45e8-a0e5-76cb6226e7cf.png)
 
