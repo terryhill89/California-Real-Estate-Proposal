@@ -48,10 +48,10 @@ function buildBubbleChart(medianHomePrice, passingStudents, numberStudents) {
 
         Plotly.newPlot("scatter", traceData, layout);
 }
-d3.selectAll("#selDataset").on("change", updatePlotly)
+d3.selectAll("#selData").on("change", updateChart)
 
-function updatePlotly() {
-    let dropdownMenu = d3.select("#selDataset");
+function updateChart() {
+    let dropdownMenu = d3.select("#selData");
 
     let newData = dropdownMenu.property("value");
 

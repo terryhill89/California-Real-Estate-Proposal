@@ -43,6 +43,9 @@
       th, td {
         padding: 8px;
       }
+      .awesome-marker i::before {
+        color: black;
+    }
     </STYLE>
 </head>
 
@@ -79,7 +82,7 @@
       </TD>
 
       <TD style="width:33%">
-        <select id="selDataset">
+        <select id="selData">
           <option value="english_2021">English 2021</option>
           <option value="math_2021">Math 2021</option>
           <option value="english_2022">English 2022</option>
@@ -89,7 +92,69 @@
       </TD>
 
       <TD style="text-align:center" style="width:30%">
-        Other chart here!
+        <h2>Crimes</h2>
+          <p>Crime Numbers.</p>
+          <select id="selDataset">
+          <option value="AlamedaCounty">AlamedaCounty</option>
+          <option value="AlpineCounty">AlpineCounty</option>
+          <option value="AmadorCounty">AmadorCounty</option>
+          <option value="ButteCounty">ButteCounty</option>
+          <option value="CalaverasCounty">CalaverasCounty</option>
+          <option value="ColusaCounty">ColusaCounty</option>
+          <option value="ContraCostaCounty">ContraCostaCounty</option>
+          <option value="DelNorteCounty">DelNorteCounty</option>
+        <option value="ElDoradoCounty">ElDoradoCounty</option>
+        <option value="FresnoCounty">FresnoCounty</option>
+        <option value="GlennCounty">GlennCounty</option>
+        <option value="HumboldtCounty">HumboldtCounty</option>
+        <option value="ImperialCounty">ImperialCounty</option>
+        <option value="InyoCounty">InyoCounty</option>
+        <option value="KernCounty">KernCounty</option>
+        <option value="KingsCounty">KingsCounty</option>
+        <option value="LakeCounty">LakeCounty</option>
+        <option value="LassenCounty">LassenCounty</option>
+        <option value="LosAngelesCounty">LosAngelesCounty</option>
+        <option value="MaderaCounty">MaderaCounty</option>
+        <option value="MarinCounty">MarinCounty</option>
+        <option value="MariposaCounty">MariposaCounty</option>
+        <option value="MendocinoCounty">MendocinoCounty</option>
+        <option value="MercedCounty">MercedCounty</option>
+        <option value="ModocCounty">ModocCounty</option>
+        <option value="MonoCounty">MonoCounty</option>
+        <option value="NapaCounty">NapaCounty</option>
+        <option value="OrangeCounty">OrangeCounty</option>
+        <option value="PlacerCounty">PlacerCounty</option>
+        <option value="PlumasCounty">PlumasCounty</option>
+        <option value="RiversideCounty">RiversideCounty</option>
+        <option value="SacramentoCounty">SacramentoCounty</option>
+        <option value="SanBenitoCounty">SanBenitoCounty</option>
+        <option value="SanBernardinoCounty">SanBernardinoCounty</option>
+        <option value="SanDiegoCounty">SanDiegoCounty</option>
+        <option value="SanFranciscoCounty">SanFranciscoCounty</option>
+        <option value="SanJoaquinCounty">SanJoaquinCounty</option>
+        <option value="SanLuisObispoCounty">SanLuisObispoCounty</option>
+        <option value="SanMateoCounty">SanMateoCounty</option>
+        <option value="SantaBarbaraCounty">SantaBarbaraCounty</option>
+        <option value="SantaClaraCounty">SantaClaraCounty</option>
+        <option value="SantaCruzCounty">SantaCruzCounty</option>
+        <option value="SierraCounty">SierraCounty</option>
+        <option value="SiskiyouCounty">SiskiyouCounty</option>
+        <option value="SolanoCounty">SolanoCounty</option>
+        <option value="SonomaCounty">SonomaCounty</option>
+        <option value="StanislausCounty">StanislausCounty</option>
+        <option value="SutterCounty">SutterCounty</option>
+        <option value="TehamaCounty">TehamaCounty</option>
+        <option value="TrinityCounty">TrinityCounty</option>
+        <option value="TulareCounty">TulareCounty</option>
+        <option value="TuolumneCounty">TuolumneCounty</option>
+        <option value="VenturaCounty">VenturaCounty</option>
+        <option value="YoloCounty">YoloCounty</option>
+        <option value="YubaCounty">YubaCounty</option>
+
+    </select>
+
+    <div id="pie"></div>
+
       </TD>
     </TR>
 
@@ -113,6 +178,9 @@
   <!-- Demographics plot code -->
   <script src="JS_zipcode_Cali_map/KJ_java/Katejoe_plot.js"></script>
   
+  <!-- crime pie chart -->
+  <script src="Data_and_code_creating_database/crime_Terry/data.js"></script>
+  <script src="Data_and_code_creating_database/crime_Terry/app.js"></script>
 
 </body>
 
