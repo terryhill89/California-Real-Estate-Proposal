@@ -76,7 +76,7 @@ Demographic data can play a significant role in understanding real estate trends
 - Age: 
 The age of the population can influence the type of housing that is in demand. For example, as baby boomers retire, they may be more interested in downsizing to smaller homes or moving to retirement communities.
 
-Income per capita: Income levels can affect the affordability of housing in a particular area. Higher-income neighborhoods may have more expensive homes, while lower-income areas may have more affordable housing options.
+- Income per capita: Income levels can affect the affordability of housing in a particular area. Higher-income neighborhoods may have more expensive homes, while lower-income areas may have more affordable housing options.
  
 - Household income: 
 Household income levels can impact the affordability of housing in a particular area. Areas with higher median household incomes may have more expensive homes, while lower-income areas may have more affordable housing options. Additionally, areas with higher median household incomes may attract higher-end retail and entertainment options, as well as amenities such as parks, schools, and community centers, which can contribute to the desirability of the neighborhood.
