@@ -74,8 +74,8 @@ My struggle was trying to plot a bar chart to show the crime data. The data was 
 ![Screenshot 2023-04-13 205336](https://user-images.githubusercontent.com/112741203/231937698-51c5c2f4-e5a0-45e8-a0e5-76cb6226e7cf.png)
 
 ### Resources
-- Census data - https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b
-https://github.com/datamade/census/tree/master/census
+-  Review the following page to review the Python library documentation -  https://github.com/CommerceDataService/census-wrapper
+-  Review the following page to learn more about the data labels: <https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b>
 
 # (Kyra Edcation)
 ![image](https://user-images.githubusercontent.com/112741203/231937747-7c0942ce-9aac-42e7-aeb5-6c53738f6710.png)
