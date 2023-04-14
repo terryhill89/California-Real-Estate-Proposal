@@ -47,7 +47,7 @@ Analysis
  JSON data for the outline of the State of California was downloaded from: https://eric.clst.org/assets/wiki/uploads/Stuff/
 
 # (Terry Crimes)
-## Set Overview and History:
+## Set Overview:
 - What is the crime rate around here?
 - What is the most crime that happens in each county?
 - Will my home be safe if I decide to move to this county?
@@ -71,6 +71,9 @@ My struggle was trying to plot a bar chart to show the crime data. The data was 
 - Orignal CSV - https://openjustice.doj.ca.gov/data
 
 # (KateJoe Demographics)
+
+
+
 ![Screenshot 2023-04-13 205336](https://user-images.githubusercontent.com/112741203/231937698-51c5c2f4-e5a0-45e8-a0e5-76cb6226e7cf.png)
 
 ### Resources
