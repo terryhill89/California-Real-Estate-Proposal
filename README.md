@@ -16,10 +16,16 @@ An SQLite database was constructed for this project (Creating_SQLite_Database.ip
           
           * median_prices (Armann)
           
-           ## Example of Leaflet map output
+          
+# Breakdown of task:
+Each team member will go through this tasks as we perform analysis to address the real estate market characteristics mentioned above.
+Data Retrieval
+Data cleaning
+Storing data
+Analysis
 
  
-# (Armann median_prices)
+# (Armann Median_Prices)
 ## Data sources for median prices portion of the project
   1) county_facts.csv 
         derived from web scraping of  https://en.wikipedia.org/wiki/List_of_counties_in_California
@@ -61,5 +67,9 @@ My struggle was trying to plot a bar chart to show the crime data. The data was 
  JSON data for the outline of the State of California was downloaded from:    https://eric.clst.org/assets/wiki/uploads/Stuff/
 - Original PDF files - https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2022-08/Arrests%20Context_081122.pdf
 - Orignal CSV - https://openjustice.doj.ca.gov/data
+
+# (KateJoe Demographics)
+
+# (Kyra Edcation)
 
 
