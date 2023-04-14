@@ -31,32 +31,28 @@ function generateData(data, selectedField) {
 }
 function buildBarChart(Zipcode, selectedField, //County, 
 Incomepercapita, Medianhouseholdincome, Poverty, Medianage, Medianhomevalue, TotalPopulation, Transitpublictransport) {
-    var trace = {
+    let trace1 = {
         x: Zipcode,
         y: eval(selectedField),
-        type: 'bar',
-        mode: 'markers',
+        type: "bar",
+        mode: "markers",
         text: Zipcode,
         marker: {
-         color: 'Indigo',
-       }
-    }
-       // Define layout object
-       var layout = {
-        title: 'Demographics',
+            color: "Indigo"
+        }
+    };
+    let layout = {
+        title: "Demographics",
         xaxis: {
-         title: 'Zipcode',
-         type: 'category'
+            title: "Zipcode",
+            type: "category"
         },
         yaxis: {
-         title: selectedField
+            title: selectedField
         }
-       };
-       // Create array of trace objects
-       var data = [trace];
-
-       // Create line chart
-       Plotly.newPlot('chart', data, layout);
+        };
+        let traceData = [trace1];
+        Plotly.newPlot("chart", traceData, layout);
 }
 d3.selectAll("#selectField").on("change", optionChanged)
 
