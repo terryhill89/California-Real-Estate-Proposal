@@ -27,6 +27,10 @@ Analysis
  
 # (Armann Median_Prices)
 ## Data sources for median prices portion of the project
+
+![Screenshot 2023-04-12 at 9 22 09 AM](https://user-images.githubusercontent.com/115322974/231520736-1dea4ca5-7d30-4d2f-b435-d268fb21705d.png)
+
+### Resources
   1) county_facts.csv 
         derived from web scraping of  https://en.wikipedia.org/wiki/List_of_counties_in_California
         (pandas was used for web scraping and code is included (webscraping_county_facts.ipynb)
@@ -41,11 +45,9 @@ Analysis
   4) zipdemos 
         derived from https://simplemaps.com/data/us-zips
  JSON data for the outline of the State of California was downloaded from: https://eric.clst.org/assets/wiki/uploads/Stuff/
- 
-![Screenshot 2023-04-12 at 9 22 09 AM](https://user-images.githubusercontent.com/115322974/231520736-1dea4ca5-7d30-4d2f-b435-d268fb21705d.png)
 
 # (Terry Crimes)
-## Set Overview and History:
+## Set Overview:
 - What is the crime rate around here?
 - What is the most crime that happens in each county?
 - Will my home be safe if I decide to move to this county?
@@ -70,6 +72,20 @@ My struggle was trying to plot a bar chart to show the crime data. The data was 
 
 # (KateJoe Demographics)
 
+
+
+![Screenshot 2023-04-13 205336](https://user-images.githubusercontent.com/112741203/231937698-51c5c2f4-e5a0-45e8-a0e5-76cb6226e7cf.png)
+
+### Resources
+-  Review the following page to review the Python library documentation -  https://github.com/CommerceDataService/census-wrapper
+-  Review the following page to learn more about the data labels: <https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b>
+
 # (Kyra Edcation)
+![image](https://user-images.githubusercontent.com/112741203/231937747-7c0942ce-9aac-42e7-aeb5-6c53738f6710.png)
+
+### Resources
+- California Assessment of Student Performance and Progress - https://caaspp-elpac.ets.org/caaspp/ResearchFileListSB?ps=true&lstTestYear=2022&lstTestType=B&lstCounty=00&lstDistrict=00000#dl
+
+
 
 
