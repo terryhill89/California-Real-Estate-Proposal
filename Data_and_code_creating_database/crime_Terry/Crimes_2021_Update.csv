@@ -1,0 +1,581 @@
+Year,County_name,County_dept,Crimes,Number of Crimes
+2021,Alameda County,Alameda Co. Sheriff's Department,Violent_sum,10436
+2021,Alpine County,Alpine Co. Sheriff's Department,Violent_sum,19
+2021,Amador County,Amador Co. Sheriff's Department,Violent_sum,135
+2021,Butte County,Butte Co. Sheriff's Department,Violent_sum,1110
+2021,Calaveras County,Calaveras Co. Sheriff's Department,Violent_sum,185
+2021,Colusa County,Colusa Co. Sheriff's Department,Violent_sum,55
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,Violent_sum,4002
+2021,Del Norte County,Del Norte Co. Sheriff's Department,Violent_sum,230
+2021,El Dorado County,El Dorado Co. Sheriff's Department,Violent_sum,531
+2021,Fresno County,Fresno Co. Sheriff's Department,Violent_sum,7405
+2021,Glenn County,Glenn Co. Sheriff's Department,Violent_sum,115
+2021,Humboldt County,Humboldt Co. Sheriff's Department,Violent_sum,670
+2021,Imperial County,Imperial Co. Sheriff's Department,Violent_sum,560
+2021,Inyo County,Inyo Co. Sheriff's Department,Violent_sum,121
+2021,Kern County,Kern Co. Sheriff's Department,Violent_sum,6718
+2021,Kings County,Kings Co. Sheriff's Department,Violent_sum,686
+2021,Lake County,Lake Co. Sheriff's Department,Violent_sum,393
+2021,Lassen County,Lassen Co. Sheriff's Department,Violent_sum,80
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,Violent_sum,58177
+2021,Madera County,Madera Co. Sheriff's Department,Violent_sum,1022
+2021,Marin County,Marin Co. Sheriff's Department,Violent_sum,348
+2021,Mariposa County,Mariposa Co. Sheriff's Department,Violent_sum,80
+2021,Mendocino County,Mendocino Co. Sheriff's Department,Violent_sum,473
+2021,Merced County,Merced Co. Sheriff's Department,Violent_sum,1833
+2021,Modoc County,Modoc Co. Sheriff's Department,Violent_sum,13
+2021,Mono County,Mono Co. Sheriff's Department,Violent_sum,33
+2021,Monterey County,Monterey Co. Sheriff's Department,Violent_sum,2035
+2021,Napa County,Napa Co. Sheriff's Department,Violent_sum,578
+2021,Nevada County,Nevada Co. Sheriff's Department,Violent_sum,238
+2021,Orange County,Orange Co. Sheriff's Department,Violent_sum,8144
+2021,Placer County,Placer Co. Sheriff's Department,Violent_sum,740
+2021,Plumas County,Plumas Co. Sheriff's Department,Violent_sum,178
+2021,Riverside County,Riverside Co. Sheriff's Department,Violent_sum,7201
+2021,Sacramento County,Sacramento Co. Sheriff's Department,Violent_sum,5034
+2021,San Benito County,San Benito Co. Sheriff's Department,Violent_sum,292
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,Violent_sum,12736
+2021,San Diego County,San Diego Co. Sheriff's Department,Violent_sum,12286
+2021,San Francisco County,San Francisco,Violent_sum,4996
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,Violent_sum,5371
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,Violent_sum,903
+2021,San Mateo County,San Mateo Co. Sheriff's Department,Violent_sum,1687
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,Violent_sum,1726
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,Violent_sum,6800
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,Violent_sum,1052
+2021,Shasta County,Shasta Co. Sheriff's Department,Violent_sum,27
+2021,Sierra County,Sierra Co. Sheriff's Department,Violent_sum,6
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,Violent_sum,259
+2021,Solano County,Solano Co. Sheriff's Department,Violent_sum,2294
+2021,Sonoma County,Sonoma Co. Sheriff's Department,Violent_sum,1946
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,Violent_sum,2740
+2021,Sutter County,Sutter Co. Sheriff's Department,Violent_sum,414
+2021,Tehama County,Tehama Co. Sheriff's Department,Violent_sum,355
+2021,Trinity County,Trinity Co. Sheriff's Department,Violent_sum,83
+2021,Tulare County,Tulare Co. Sheriff's Department,Violent_sum,1635
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,Violent_sum,322
+2021,Ventura County,Ventura Co. Sheriff's Department,Violent_sum,1758
+2021,Yolo County,Yolo Co. Sheriff's Department,Violent_sum,689
+2021,Yuba County,Yuba Co. Sheriff's Department,Violent_sum,354
+2021,Alameda County,Alameda Co. Sheriff's Department,Homicide_sum,146
+2021,Alpine County,Alpine Co. Sheriff's Department,Homicide_sum,0
+2021,Amador County,Amador Co. Sheriff's Department,Homicide_sum,4
+2021,Butte County,Butte Co. Sheriff's Department,Homicide_sum,13
+2021,Calaveras County,Calaveras Co. Sheriff's Department,Homicide_sum,2
+2021,Colusa County,Colusa Co. Sheriff's Department,Homicide_sum,0
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,Homicide_sum,50
+2021,Del Norte County,Del Norte Co. Sheriff's Department,Homicide_sum,1
+2021,El Dorado County,El Dorado Co. Sheriff's Department,Homicide_sum,6
+2021,Fresno County,Fresno Co. Sheriff's Department,Homicide_sum,87
+2021,Glenn County,Glenn Co. Sheriff's Department,Homicide_sum,0
+2021,Humboldt County,Humboldt Co. Sheriff's Department,Homicide_sum,8
+2021,Imperial County,Imperial Co. Sheriff's Department,Homicide_sum,14
+2021,Inyo County,Inyo Co. Sheriff's Department,Homicide_sum,0
+2021,Kern County,Kern Co. Sheriff's Department,Homicide_sum,124
+2021,Kings County,Kings Co. Sheriff's Department,Homicide_sum,11
+2021,Lake County,Lake Co. Sheriff's Department,Homicide_sum,5
+2021,Lassen County,Lassen Co. Sheriff's Department,Homicide_sum,0
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,Homicide_sum,841
+2021,Madera County,Madera Co. Sheriff's Department,Homicide_sum,5
+2021,Marin County,Marin Co. Sheriff's Department,Homicide_sum,1
+2021,Mariposa County,Mariposa Co. Sheriff's Department,Homicide_sum,5
+2021,Mendocino County,Mendocino Co. Sheriff's Department,Homicide_sum,8
+2021,Merced County,Merced Co. Sheriff's Department,Homicide_sum,27
+2021,Modoc County,Modoc Co. Sheriff's Department,Homicide_sum,0
+2021,Mono County,Mono Co. Sheriff's Department,Homicide_sum,1
+2021,Monterey County,Monterey Co. Sheriff's Department,Homicide_sum,14
+2021,Napa County,Napa Co. Sheriff's Department,Homicide_sum,0
+2021,Nevada County,Nevada Co. Sheriff's Department,Homicide_sum,4
+2021,Orange County,Orange Co. Sheriff's Department,Homicide_sum,71
+2021,Placer County,Placer Co. Sheriff's Department,Homicide_sum,4
+2021,Plumas County,Plumas Co. Sheriff's Department,Homicide_sum,0
+2021,Riverside County,Riverside Co. Sheriff's Department,Homicide_sum,111
+2021,Sacramento County,Sacramento Co. Sheriff's Department,Homicide_sum,107
+2021,San Benito County,San Benito Co. Sheriff's Department,Homicide_sum,1
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,Homicide_sum,177
+2021,San Diego County,San Diego Co. Sheriff's Department,Homicide_sum,113
+2021,San Francisco County,San Francisco,Homicide_sum,56
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,Homicide_sum,63
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,Homicide_sum,2
+2021,San Mateo County,San Mateo Co. Sheriff's Department,Homicide_sum,18
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,Homicide_sum,18
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,Homicide_sum,57
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,Homicide_sum,12
+2021,Shasta County,Shasta Co. Sheriff's Department,Homicide_sum,0
+2021,Sierra County,Sierra Co. Sheriff's Department,Homicide_sum,0
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,Homicide_sum,4
+2021,Solano County,Solano Co. Sheriff's Department,Homicide_sum,32
+2021,Sonoma County,Sonoma Co. Sheriff's Department,Homicide_sum,9
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,Homicide_sum,26
+2021,Sutter County,Sutter Co. Sheriff's Department,Homicide_sum,5
+2021,Tehama County,Tehama Co. Sheriff's Department,Homicide_sum,2
+2021,Trinity County,Trinity Co. Sheriff's Department,Homicide_sum,1
+2021,Tulare County,Tulare Co. Sheriff's Department,Homicide_sum,42
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,Homicide_sum,1
+2021,Ventura County,Ventura Co. Sheriff's Department,Homicide_sum,20
+2021,Yolo County,Yolo Co. Sheriff's Department,Homicide_sum,5
+2021,Yuba County,Yuba Co. Sheriff's Department,Homicide_sum,6
+2021,Alameda County,Alameda Co. Sheriff's Department,Rape_sum,7918
+2021,Alpine County,Alpine Co. Sheriff's Department,Rape_sum,0
+2021,Amador County,Amador Co. Sheriff's Department,Rape_sum,23
+2021,Butte County,Butte Co. Sheriff's Department,Rape_sum,178
+2021,Calaveras County,Calaveras Co. Sheriff's Department,Rape_sum,6
+2021,Colusa County,Colusa Co. Sheriff's Department,Rape_sum,20
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,Rape_sum,1638
+2021,Del Norte County,Del Norte Co. Sheriff's Department,Rape_sum,50
+2021,El Dorado County,El Dorado Co. Sheriff's Department,Rape_sum,59
+2021,Fresno County,Fresno Co. Sheriff's Department,Rape_sum,1688
+2021,Glenn County,Glenn Co. Sheriff's Department,Rape_sum,10
+2021,Humboldt County,Humboldt Co. Sheriff's Department,Rape_sum,288
+2021,Imperial County,Imperial Co. Sheriff's Department,Rape_sum,126
+2021,Inyo County,Inyo Co. Sheriff's Department,Rape_sum,31
+2021,Kern County,Kern Co. Sheriff's Department,Rape_sum,1999
+2021,Kings County,Kings Co. Sheriff's Department,Rape_sum,110
+2021,Lake County,Lake Co. Sheriff's Department,Rape_sum,68
+2021,Lassen County,Lassen Co. Sheriff's Department,Rape_sum,9
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,Rape_sum,26655
+2021,Madera County,Madera Co. Sheriff's Department,Rape_sum,93
+2021,Marin County,Marin Co. Sheriff's Department,Rape_sum,174
+2021,Mariposa County,Mariposa Co. Sheriff's Department,Rape_sum,2
+2021,Mendocino County,Mendocino Co. Sheriff's Department,Rape_sum,51
+2021,Merced County,Merced Co. Sheriff's Department,Rape_sum,378
+2021,Modoc County,Modoc Co. Sheriff's Department,Rape_sum,0
+2021,Mono County,Mono Co. Sheriff's Department,Rape_sum,2
+2021,Monterey County,Monterey Co. Sheriff's Department,Rape_sum,634
+2021,Napa County,Napa Co. Sheriff's Department,Rape_sum,108
+2021,Nevada County,Nevada Co. Sheriff's Department,Rape_sum,26
+2021,Orange County,Orange Co. Sheriff's Department,Rape_sum,3103
+2021,Placer County,Placer Co. Sheriff's Department,Rape_sum,191
+2021,Plumas County,Plumas Co. Sheriff's Department,Rape_sum,0
+2021,Riverside County,Riverside Co. Sheriff's Department,Rape_sum,2223
+2021,Sacramento County,Sacramento Co. Sheriff's Department,Rape_sum,3159
+2021,San Benito County,San Benito Co. Sheriff's Department,Rape_sum,50
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,Rape_sum,3761
+2021,San Diego County,San Diego Co. Sheriff's Department,Rape_sum,3749
+2021,San Francisco County,San Francisco,Rape_sum,2811
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,Rape_sum,1587
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,Rape_sum,129
+2021,San Mateo County,San Mateo Co. Sheriff's Department,Rape_sum,897
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,Rape_sum,439
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,Rape_sum,3125
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,Rape_sum,284
+2021,Shasta County,Shasta Co. Sheriff's Department,Rape_sum,0
+2021,Sierra County,Sierra Co. Sheriff's Department,Rape_sum,0
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,Rape_sum,27
+2021,Solano County,Solano Co. Sheriff's Department,Rape_sum,928
+2021,Sonoma County,Sonoma Co. Sheriff's Department,Rape_sum,205
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,Rape_sum,806
+2021,Sutter County,Sutter Co. Sheriff's Department,Rape_sum,107
+2021,Tehama County,Tehama Co. Sheriff's Department,Rape_sum,74
+2021,Trinity County,Trinity Co. Sheriff's Department,Rape_sum,12
+2021,Tulare County,Tulare Co. Sheriff's Department,Rape_sum,440
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,Rape_sum,32
+2021,Ventura County,Ventura Co. Sheriff's Department,Rape_sum,679
+2021,Yolo County,Yolo Co. Sheriff's Department,Rape_sum,424
+2021,Yuba County,Yuba Co. Sheriff's Department,Rape_sum,117
+2021,Alameda County,Alameda Co. Sheriff's Department,Robbery_sum,4575
+2021,Alpine County,Alpine Co. Sheriff's Department,Robbery_sum,0
+2021,Amador County,Amador Co. Sheriff's Department,Robbery_sum,13
+2021,Butte County,Butte Co. Sheriff's Department,Robbery_sum,120
+2021,Calaveras County,Calaveras Co. Sheriff's Department,Robbery_sum,4
+2021,Colusa County,Colusa Co. Sheriff's Department,Robbery_sum,11
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,Robbery_sum,1004
+2021,Del Norte County,Del Norte Co. Sheriff's Department,Robbery_sum,33
+2021,El Dorado County,El Dorado Co. Sheriff's Department,Robbery_sum,43
+2021,Fresno County,Fresno Co. Sheriff's Department,Robbery_sum,1070
+2021,Glenn County,Glenn Co. Sheriff's Department,Robbery_sum,6
+2021,Humboldt County,Humboldt Co. Sheriff's Department,Robbery_sum,141
+2021,Imperial County,Imperial Co. Sheriff's Department,Robbery_sum,87
+2021,Inyo County,Inyo Co. Sheriff's Department,Robbery_sum,19
+2021,Kern County,Kern Co. Sheriff's Department,Robbery_sum,1249
+2021,Kings County,Kings Co. Sheriff's Department,Robbery_sum,79
+2021,Lake County,Lake Co. Sheriff's Department,Robbery_sum,41
+2021,Lassen County,Lassen Co. Sheriff's Department,Robbery_sum,6
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,Robbery_sum,15642
+2021,Madera County,Madera Co. Sheriff's Department,Robbery_sum,55
+2021,Marin County,Marin Co. Sheriff's Department,Robbery_sum,99
+2021,Mariposa County,Mariposa Co. Sheriff's Department,Robbery_sum,2
+2021,Mendocino County,Mendocino Co. Sheriff's Department,Robbery_sum,33
+2021,Merced County,Merced Co. Sheriff's Department,Robbery_sum,314
+2021,Modoc County,Modoc Co. Sheriff's Department,Robbery_sum,0
+2021,Mono County,Mono Co. Sheriff's Department,Robbery_sum,1
+2021,Monterey County,Monterey Co. Sheriff's Department,Robbery_sum,381
+2021,Napa County,Napa Co. Sheriff's Department,Robbery_sum,66
+2021,Nevada County,Nevada Co. Sheriff's Department,Robbery_sum,18
+2021,Orange County,Orange Co. Sheriff's Department,Robbery_sum,1912
+2021,Placer County,Placer Co. Sheriff's Department,Robbery_sum,126
+2021,Plumas County,Plumas Co. Sheriff's Department,Robbery_sum,4
+2021,Riverside County,Riverside Co. Sheriff's Department,Robbery_sum,1607
+2021,Sacramento County,Sacramento Co. Sheriff's Department,Robbery_sum,1798
+2021,San Benito County,San Benito Co. Sheriff's Department,Robbery_sum,34
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,Robbery_sum,2173
+2021,San Diego County,San Diego Co. Sheriff's Department,Robbery_sum,2440
+2021,San Francisco County,San Francisco,Robbery_sum,2297
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,Robbery_sum,1046
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,Robbery_sum,81
+2021,San Mateo County,San Mateo Co. Sheriff's Department,Robbery_sum,522
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,Robbery_sum,271
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,Robbery_sum,1759
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,Robbery_sum,192
+2021,Shasta County,Shasta Co. Sheriff's Department,Robbery_sum,0
+2021,Sierra County,Sierra Co. Sheriff's Department,Robbery_sum,0
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,Robbery_sum,14
+2021,Solano County,Solano Co. Sheriff's Department,Robbery_sum,602
+2021,Sonoma County,Sonoma Co. Sheriff's Department,Robbery_sum,201
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,Robbery_sum,503
+2021,Sutter County,Sutter Co. Sheriff's Department,Robbery_sum,65
+2021,Tehama County,Tehama Co. Sheriff's Department,Robbery_sum,47
+2021,Trinity County,Trinity Co. Sheriff's Department,Robbery_sum,7
+2021,Tulare County,Tulare Co. Sheriff's Department,Robbery_sum,266
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,Robbery_sum,19
+2021,Ventura County,Ventura Co. Sheriff's Department,Robbery_sum,432
+2021,Yolo County,Yolo Co. Sheriff's Department,Robbery_sum,150
+2021,Yuba County,Yuba Co. Sheriff's Department,Robbery_sum,70
+2021,Alameda County,Alameda Co. Sheriff's Department,AggAssault_sum,5149
+2021,Alpine County,Alpine Co. Sheriff's Department,AggAssault_sum,17
+2021,Amador County,Amador Co. Sheriff's Department,AggAssault_sum,109
+2021,Butte County,Butte Co. Sheriff's Department,AggAssault_sum,826
+2021,Calaveras County,Calaveras Co. Sheriff's Department,AggAssault_sum,144
+2021,Colusa County,Colusa Co. Sheriff's Department,AggAssault_sum,35
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,AggAssault_sum,2695
+2021,Del Norte County,Del Norte Co. Sheriff's Department,AggAssault_sum,152
+2021,El Dorado County,El Dorado Co. Sheriff's Department,AggAssault_sum,384
+2021,Fresno County,Fresno Co. Sheriff's Department,AggAssault_sum,5842
+2021,Glenn County,Glenn Co. Sheriff's Department,AggAssault_sum,94
+2021,Humboldt County,Humboldt Co. Sheriff's Department,AggAssault_sum,430
+2021,Imperial County,Imperial Co. Sheriff's Department,AggAssault_sum,436
+2021,Inyo County,Inyo Co. Sheriff's Department,AggAssault_sum,91
+2021,Kern County,Kern Co. Sheriff's Department,AggAssault_sum,4990
+2021,Kings County,Kings Co. Sheriff's Department,AggAssault_sum,517
+2021,Lake County,Lake Co. Sheriff's Department,AggAssault_sum,295
+2021,Lassen County,Lassen Co. Sheriff's Department,AggAssault_sum,61
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,AggAssault_sum,37731
+2021,Madera County,Madera Co. Sheriff's Department,AggAssault_sum,844
+2021,Marin County,Marin Co. Sheriff's Department,AggAssault_sum,209
+2021,Mariposa County,Mariposa Co. Sheriff's Department,AggAssault_sum,63
+2021,Mendocino County,Mendocino Co. Sheriff's Department,AggAssault_sum,379
+2021,Merced County,Merced Co. Sheriff's Department,AggAssault_sum,1477
+2021,Modoc County,Modoc Co. Sheriff's Department,AggAssault_sum,9
+2021,Mono County,Mono Co. Sheriff's Department,AggAssault_sum,24
+2021,Monterey County,Monterey Co. Sheriff's Department,AggAssault_sum,1433
+2021,Napa County,Napa Co. Sheriff's Department,AggAssault_sum,443
+2021,Nevada County,Nevada Co. Sheriff's Department,AggAssault_sum,189
+2021,Orange County,Orange Co. Sheriff's Department,AggAssault_sum,5259
+2021,Placer County,Placer Co. Sheriff's Department,AggAssault_sum,210
+2021,Plumas County,Plumas Co. Sheriff's Department,AggAssault_sum,159
+2021,Riverside County,Riverside Co. Sheriff's Department,AggAssault_sum,4952
+2021,Sacramento County,Sacramento Co. Sheriff's Department,AggAssault_sum,5573
+2021,San Benito County,San Benito Co. Sheriff's Department,AggAssault_sum,218
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,AggAssault_sum,9532
+2021,San Diego County,San Diego Co. Sheriff's Department,AggAssault_sum,8837
+2021,San Francisco County,San Francisco,AggAssault_sum,45265
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,AggAssault_sum,3984
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,AggAssault_sum,736
+2021,San Mateo County,San Mateo Co. Sheriff's Department,AggAssault_sum,855
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,AggAssault_sum,1216
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,AggAssault_sum,4004
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,AggAssault_sum,735
+2021,Shasta County,Shasta Co. Sheriff's Department,AggAssault_sum,26
+2021,Sierra County,Sierra Co. Sheriff's Department,AggAssault_sum,6
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,AggAssault_sum,218
+2021,Solano County,Solano Co. Sheriff's Department,AggAssault_sum,1390
+2021,Sonoma County,Sonoma Co. Sheriff's Department,AggAssault_sum,1434
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,AggAssault_sum,2002
+2021,Sutter County,Sutter Co. Sheriff's Department,AggAssault_sum,305
+2021,Tehama County,Tehama Co. Sheriff's Department,AggAssault_sum,232
+2021,Trinity County,Trinity Co. Sheriff's Department,AggAssault_sum,70
+2021,Tulare County,Tulare Co. Sheriff's Department,AggAssault_sum,1403
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,AggAssault_sum,175
+2021,Ventura County,Ventura Co. Sheriff's Department,AggAssault_sum,1091
+2021,Yolo County,Yolo Co. Sheriff's Department,AggAssault_sum,459
+2021,Yuba County,Yuba Co. Sheriff's Department,AggAssault_sum,243
+2021,Alameda County,Alameda Co. Sheriff's Department,PropertyCrime_sum,61156
+2021,Alpine County,Alpine Co. Sheriff's Department,PropertyCrime_sum,23
+2021,Amador County,Amador Co. Sheriff's Department,PropertyCrime_sum,716
+2021,Butte County,Butte Co. Sheriff's Department,PropertyCrime_sum,4785
+2021,Calaveras County,Calaveras Co. Sheriff's Department,PropertyCrime_sum,677
+2021,Colusa County,Colusa Co. Sheriff's Department,PropertyCrime_sum,316
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,PropertyCrime_sum,22571
+2021,Del Norte County,Del Norte Co. Sheriff's Department,PropertyCrime_sum,570
+2021,El Dorado County,El Dorado Co. Sheriff's Department,PropertyCrime_sum,2318
+2021,Fresno County,Fresno Co. Sheriff's Department,PropertyCrime_sum,25108
+2021,Glenn County,Glenn Co. Sheriff's Department,PropertyCrime_sum,352
+2021,Humboldt County,Humboldt Co. Sheriff's Department,PropertyCrime_sum,3783
+2021,Imperial County,Imperial Co. Sheriff's Department,PropertyCrime_sum,3208
+2021,Inyo County,Inyo Co. Sheriff's Department,PropertyCrime_sum,337
+2021,Kern County,Kern Co. Sheriff's Department,PropertyCrime_sum,29208
+2021,Kings County,Kings Co. Sheriff's Department,PropertyCrime_sum,2324
+2021,Lake County,Lake Co. Sheriff's Department,PropertyCrime_sum,1188
+2021,Lassen County,Lassen Co. Sheriff's Department,PropertyCrime_sum,379
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,PropertyCrime_sum,18771
+2021,Madera County,Madera Co. Sheriff's Department,PropertyCrime_sum,3344
+2021,Marin County,Marin Co. Sheriff's Department,PropertyCrime_sum,3807
+2021,Mariposa County,Mariposa Co. Sheriff's Department,PropertyCrime_sum,242
+2021,Mendocino County,Mendocino Co. Sheriff's Department,PropertyCrime_sum,1216
+2021,Merced County,Merced Co. Sheriff's Department,PropertyCrime_sum,7200
+2021,Modoc County,Modoc Co. Sheriff's Department,PropertyCrime_sum,56
+2021,Mono County,Mono Co. Sheriff's Department,PropertyCrime_sum,107
+2021,Monterey County,Monterey Co. Sheriff's Department,PropertyCrime_sum,7124
+2021,Napa County,Napa Co. Sheriff's Department,PropertyCrime_sum,1927
+2021,Nevada County,Nevada Co. Sheriff's Department,PropertyCrime_sum,881
+2021,Orange County,Orange Co. Sheriff's Department,PropertyCrime_sum,58821
+2021,Placer County,Placer Co. Sheriff's Department,PropertyCrime_sum,5832
+2021,Plumas County,Plumas Co. Sheriff's Department,PropertyCrime_sum,269
+2021,Riverside County,Riverside Co. Sheriff's Department,PropertyCrime_sum,50113
+2021,Sacramento County,Sacramento Co. Sheriff's Department,PropertyCrime_sum,34457
+2021,San Benito County,San Benito Co. Sheriff's Department,PropertyCrime_sum,562
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,PropertyCrime_sum,38777
+2021,San Diego County,San Diego Co. Sheriff's Department,PropertyCrime_sum,54262
+2021,San Francisco County,San Francisco,PropertyCrime_sum,64153
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,PropertyCrime_sum,17515
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,PropertyCrime_sum,5270
+2021,San Mateo County,San Mateo Co. Sheriff's Department,PropertyCrime_sum,15291
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,PropertyCrime_sum,9642
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,PropertyCrime_sum,41997
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,PropertyCrime_sum,5478
+2021,Shasta County,Shasta Co. Sheriff's Department,PropertyCrime_sum,380
+2021,Sierra County,Sierra Co. Sheriff's Department,PropertyCrime_sum,50
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,PropertyCrime_sum,704
+2021,Solano County,Solano Co. Sheriff's Department,PropertyCrime_sum,10474
+2021,Sonoma County,Sonoma Co. Sheriff's Department,PropertyCrime_sum,6707
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,PropertyCrime_sum,10966
+2021,Sutter County,Sutter Co. Sheriff's Department,PropertyCrime_sum,2355
+2021,Tehama County,Tehama Co. Sheriff's Department,PropertyCrime_sum,1289
+2021,Trinity County,Trinity Co. Sheriff's Department,PropertyCrime_sum,221
+2021,Tulare County,Tulare Co. Sheriff's Department,PropertyCrime_sum,9082
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,PropertyCrime_sum,951
+2021,Ventura County,Ventura Co. Sheriff's Department,PropertyCrime_sum,12161
+2021,Yolo County,Yolo Co. Sheriff's Department,PropertyCrime_sum,5503
+2021,Yuba County,Yuba Co. Sheriff's Department,PropertyCrime_sum,1284
+2021,Alameda County,Alameda Co. Sheriff's Department,Burglary_sum,14273
+2021,Alpine County,Alpine Co. Sheriff's Department,Burglary_sum,19
+2021,Amador County,Amador Co. Sheriff's Department,Burglary_sum,312
+2021,Butte County,Butte Co. Sheriff's Department,Burglary_sum,1925
+2021,Calaveras County,Calaveras Co. Sheriff's Department,Burglary_sum,441
+2021,Colusa County,Colusa Co. Sheriff's Department,Burglary_sum,188
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,Burglary_sum,6815
+2021,Del Norte County,Del Norte Co. Sheriff's Department,Burglary_sum,469
+2021,El Dorado County,El Dorado Co. Sheriff's Department,Burglary_sum,1232
+2021,Fresno County,Fresno Co. Sheriff's Department,Burglary_sum,15676
+2021,Glenn County,Glenn Co. Sheriff's Department,Burglary_sum,198
+2021,Humboldt County,Humboldt Co. Sheriff's Department,Burglary_sum,2282
+2021,Imperial County,Imperial Co. Sheriff's Department,Burglary_sum,2231
+2021,Inyo County,Inyo Co. Sheriff's Department,Burglary_sum,194
+2021,Kern County,Kern Co. Sheriff's Department,Burglary_sum,13005
+2021,Kings County,Kings Co. Sheriff's Department,Burglary_sum,1019
+2021,Lake County,Lake Co. Sheriff's Department,Burglary_sum,788
+2021,Lassen County,Lassen Co. Sheriff's Department,Burglary_sum,254
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,Burglary_sum,88031
+2021,Madera County,Madera Co. Sheriff's Department,Burglary_sum,1042
+2021,Marin County,Marin Co. Sheriff's Department,Burglary_sum,1246
+2021,Mariposa County,Mariposa Co. Sheriff's Department,Burglary_sum,90
+2021,Mendocino County,Mendocino Co. Sheriff's Department,Burglary_sum,783
+2021,Merced County,Merced Co. Sheriff's Department,Burglary_sum,3251
+2021,Modoc County,Modoc Co. Sheriff's Department,Burglary_sum,31
+2021,Mono County,Mono Co. Sheriff's Department,Burglary_sum,56
+2021,Monterey County,Monterey Co. Sheriff's Department,Burglary_sum,3658
+2021,Napa County,Napa Co. Sheriff's Department,Burglary_sum,713
+2021,Nevada County,Nevada Co. Sheriff's Department,Burglary_sum,590
+2021,Orange County,Orange Co. Sheriff's Department,Burglary_sum,22152
+2021,Placer County,Placer Co. Sheriff's Department,Burglary_sum,1949
+2021,Plumas County,Plumas Co. Sheriff's Department,Burglary_sum,202
+2021,Riverside County,Riverside Co. Sheriff's Department,Burglary_sum,20378
+2021,Sacramento County,Sacramento Co. Sheriff's Department,Burglary_sum,12745
+2021,San Benito County,San Benito Co. Sheriff's Department,Burglary_sum,268
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,Burglary_sum,16767
+2021,San Diego County,San Diego Co. Sheriff's Department,Burglary_sum,22587
+2021,San Francisco County,San Francisco,Burglary_sum,19074
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,Burglary_sum,6886
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,Burglary_sum,2411
+2021,San Mateo County,San Mateo Co. Sheriff's Department,Burglary_sum,5497
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,Burglary_sum,4493
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,Burglary_sum,17382
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,Burglary_sum,1944
+2021,Shasta County,Shasta Co. Sheriff's Department,Burglary_sum,40
+2021,Sierra County,Sierra Co. Sheriff's Department,Burglary_sum,26
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,Burglary_sum,376
+2021,Solano County,Solano Co. Sheriff's Department,Burglary_sum,4009
+2021,Sonoma County,Sonoma Co. Sheriff's Department,Burglary_sum,2331
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,Burglary_sum,3851
+2021,Sutter County,Sutter Co. Sheriff's Department,Burglary_sum,775
+2021,Tehama County,Tehama Co. Sheriff's Department,Burglary_sum,676
+2021,Trinity County,Trinity Co. Sheriff's Department,Burglary_sum,188
+2021,Tulare County,Tulare Co. Sheriff's Department,Burglary_sum,3692
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,Burglary_sum,716
+2021,Ventura County,Ventura Co. Sheriff's Department,Burglary_sum,4365
+2021,Yolo County,Yolo Co. Sheriff's Department,Burglary_sum,2133
+2021,Yuba County,Yuba Co. Sheriff's Department,Burglary_sum,547
+2021,Alameda County,Alameda Co. Sheriff's Department,VehicleTheft_sum,15516
+2021,Alpine County,Alpine Co. Sheriff's Department,VehicleTheft_sum,1
+2021,Amador County,Amador Co. Sheriff's Department,VehicleTheft_sum,77
+2021,Butte County,Butte Co. Sheriff's Department,VehicleTheft_sum,916
+2021,Calaveras County,Calaveras Co. Sheriff's Department,VehicleTheft_sum,109
+2021,Colusa County,Colusa Co. Sheriff's Department,VehicleTheft_sum,52
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,VehicleTheft_sum,4323
+2021,Del Norte County,Del Norte Co. Sheriff's Department,VehicleTheft_sum,93
+2021,El Dorado County,El Dorado Co. Sheriff's Department,VehicleTheft_sum,167
+2021,Fresno County,Fresno Co. Sheriff's Department,VehicleTheft_sum,4994
+2021,Glenn County,Glenn Co. Sheriff's Department,VehicleTheft_sum,70
+2021,Humboldt County,Humboldt Co. Sheriff's Department,VehicleTheft_sum,708
+2021,Imperial County,Imperial Co. Sheriff's Department,VehicleTheft_sum,538
+2021,Inyo County,Inyo Co. Sheriff's Department,VehicleTheft_sum,51
+2021,Kern County,Kern Co. Sheriff's Department,VehicleTheft_sum,8843
+2021,Kings County,Kings Co. Sheriff's Department,VehicleTheft_sum,517
+2021,Lake County,Lake Co. Sheriff's Department,VehicleTheft_sum,314
+2021,Lassen County,Lassen Co. Sheriff's Department,VehicleTheft_sum,61
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,VehicleTheft_sum,58224
+2021,Madera County,Madera Co. Sheriff's Department,VehicleTheft_sum,509
+2021,Marin County,Marin Co. Sheriff's Department,VehicleTheft_sum,489
+2021,Mariposa County,Mariposa Co. Sheriff's Department,VehicleTheft_sum,16
+2021,Mendocino County,Mendocino Co. Sheriff's Department,VehicleTheft_sum,178
+2021,Merced County,Merced Co. Sheriff's Department,VehicleTheft_sum,1466
+2021,Modoc County,Modoc Co. Sheriff's Department,VehicleTheft_sum,11
+2021,Mono County,Mono Co. Sheriff's Department,VehicleTheft_sum,12
+2021,Monterey County,Monterey Co. Sheriff's Department,VehicleTheft_sum,1211
+2021,Napa County,Napa Co. Sheriff's Department,VehicleTheft_sum,244
+2021,Nevada County,Nevada Co. Sheriff's Department,VehicleTheft_sum,130
+2021,Orange County,Orange Co. Sheriff's Department,VehicleTheft_sum,8480
+2021,Placer County,Placer Co. Sheriff's Department,VehicleTheft_sum,773
+2021,Plumas County,Plumas Co. Sheriff's Department,VehicleTheft_sum,22
+2021,Riverside County,Riverside Co. Sheriff's Department,VehicleTheft_sum,10385
+2021,Sacramento County,Sacramento Co. Sheriff's Department,VehicleTheft_sum,6306
+2021,San Benito County,San Benito Co. Sheriff's Department,VehicleTheft_sum,86
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,VehicleTheft_sum,8690
+2021,San Diego County,San Diego Co. Sheriff's Department,VehicleTheft_sum,11712
+2021,San Francisco County,San Francisco,VehicleTheft_sum,6091
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,VehicleTheft_sum,2700
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,VehicleTheft_sum,480
+2021,San Mateo County,San Mateo Co. Sheriff's Department,VehicleTheft_sum,2320
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,VehicleTheft_sum,1800
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,VehicleTheft_sum,9136
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,VehicleTheft_sum,723
+2021,Shasta County,Shasta Co. Sheriff's Department,VehicleTheft_sum,245
+2021,Sierra County,Sierra Co. Sheriff's Department,VehicleTheft_sum,11
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,VehicleTheft_sum,166
+2021,Solano County,Solano Co. Sheriff's Department,VehicleTheft_sum,2153
+2021,Sonoma County,Sonoma Co. Sheriff's Department,VehicleTheft_sum,953
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,VehicleTheft_sum,1831
+2021,Sutter County,Sutter Co. Sheriff's Department,VehicleTheft_sum,474
+2021,Tehama County,Tehama Co. Sheriff's Department,VehicleTheft_sum,280
+2021,Trinity County,Trinity Co. Sheriff's Department,VehicleTheft_sum,36
+2021,Tulare County,Tulare Co. Sheriff's Department,VehicleTheft_sum,1819
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,VehicleTheft_sum,68
+2021,Ventura County,Ventura Co. Sheriff's Department,VehicleTheft_sum,1204
+2021,Yolo County,Yolo Co. Sheriff's Department,VehicleTheft_sum,619
+2021,Yuba County,Yuba Co. Sheriff's Department,VehicleTheft_sum,293
+2021,Alameda County,Alameda Co. Sheriff's Department,LarcenyTheft_sum,39699
+2021,Alpine County,Alpine Co. Sheriff's Department,LarcenyTheft_sum,14
+2021,Amador County,Amador Co. Sheriff's Department,LarcenyTheft_sum,506
+2021,Butte County,Butte Co. Sheriff's Department,LarcenyTheft_sum,3051
+2021,Calaveras County,Calaveras Co. Sheriff's Department,LarcenyTheft_sum,385
+2021,Colusa County,Colusa Co. Sheriff's Department,LarcenyTheft_sum,189
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,LarcenyTheft_sum,15512
+2021,Del Norte County,Del Norte Co. Sheriff's Department,LarcenyTheft_sum,312
+2021,El Dorado County,El Dorado Co. Sheriff's Department,LarcenyTheft_sum,1644
+2021,Fresno County,Fresno Co. Sheriff's Department,LarcenyTheft_sum,14177
+2021,Glenn County,Glenn Co. Sheriff's Department,LarcenyTheft_sum,205
+2021,Humboldt County,Humboldt Co. Sheriff's Department,LarcenyTheft_sum,2180
+2021,Imperial County,Imperial Co. Sheriff's Department,LarcenyTheft_sum,1809
+2021,Inyo County,Inyo Co. Sheriff's Department,LarcenyTheft_sum,203
+2021,Kern County,Kern Co. Sheriff's Department,LarcenyTheft_sum,14858
+2021,Kings County,Kings Co. Sheriff's Department,LarcenyTheft_sum,1365
+2021,Lake County,Lake Co. Sheriff's Department,LarcenyTheft_sum,540
+2021,Lassen County,Lassen Co. Sheriff's Department,LarcenyTheft_sum,211
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,LarcenyTheft_sum,133660
+2021,Madera County,Madera Co. Sheriff's Department,LarcenyTheft_sum,1569
+2021,Marin County,Marin Co. Sheriff's Department,LarcenyTheft_sum,2816
+2021,Mariposa County,Mariposa Co. Sheriff's Department,LarcenyTheft_sum,187
+2021,Mendocino County,Mendocino Co. Sheriff's Department,LarcenyTheft_sum,726
+2021,Merced County,Merced Co. Sheriff's Department,LarcenyTheft_sum,4430
+2021,Modoc County,Modoc Co. Sheriff's Department,LarcenyTheft_sum,20
+2021,Mono County,Mono Co. Sheriff's Department,LarcenyTheft_sum,71
+2021,Monterey County,Monterey Co. Sheriff's Department,LarcenyTheft_sum,4489
+2021,Napa County,Napa Co. Sheriff's Department,LarcenyTheft_sum,1397
+2021,Nevada County,Nevada Co. Sheriff's Department,LarcenyTheft_sum,514
+2021,Orange County,Orange Co. Sheriff's Department,LarcenyTheft_sum,41251
+2021,Placer County,Placer Co. Sheriff's Department,LarcenyTheft_sum,4226
+2021,Plumas County,Plumas Co. Sheriff's Department,LarcenyTheft_sum,166
+2021,Riverside County,Riverside Co. Sheriff's Department,LarcenyTheft_sum,31365
+2021,Sacramento County,Sacramento Co. Sheriff's Department,LarcenyTheft_sum,22796
+2021,San Benito County,San Benito Co. Sheriff's Department,LarcenyTheft_sum,374
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,LarcenyTheft_sum,23152
+2021,San Diego County,San Diego Co. Sheriff's Department,LarcenyTheft_sum,34932
+2021,San Francisco County,San Francisco,LarcenyTheft_sum,31861
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,LarcenyTheft_sum,4293
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,LarcenyTheft_sum,3825
+2021,San Mateo County,San Mateo Co. Sheriff's Department,LarcenyTheft_sum,10752
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,LarcenyTheft_sum,6055
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,LarcenyTheft_sum,25671
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,LarcenyTheft_sum,3975
+2021,Shasta County,Shasta Co. Sheriff's Department,LarcenyTheft_sum,117
+2021,Sierra County,Sierra Co. Sheriff's Department,LarcenyTheft_sum,26
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,LarcenyTheft_sum,388
+2021,Solano County,Solano Co. Sheriff's Department,LarcenyTheft_sum,6742
+2021,Sonoma County,Sonoma Co. Sheriff's Department,LarcenyTheft_sum,4827
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,LarcenyTheft_sum,7378
+2021,Sutter County,Sutter Co. Sheriff's Department,LarcenyTheft_sum,509
+2021,Tehama County,Tehama Co. Sheriff's Department,LarcenyTheft_sum,730
+2021,Trinity County,Trinity Co. Sheriff's Department,LarcenyTheft_sum,112
+2021,Tulare County,Tulare Co. Sheriff's Department,LarcenyTheft_sum,5737
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,LarcenyTheft_sum,221
+2021,Ventura County,Ventura Co. Sheriff's Department,LarcenyTheft_sum,9226
+2021,Yolo County,Yolo Co. Sheriff's Department,LarcenyTheft_sum,4027
+2021,Yuba County,Yuba Co. Sheriff's Department,LarcenyTheft_sum,709
+2021,Alameda County,Alameda Co. Sheriff's Department,Arson_sum,486
+2021,Alpine County,Alpine Co. Sheriff's Department,Arson_sum,0
+2021,Amador County,Amador Co. Sheriff's Department,Arson_sum,3
+2021,Butte County,Butte Co. Sheriff's Department,Arson_sum,80
+2021,Calaveras County,Calaveras Co. Sheriff's Department,Arson_sum,0
+2021,Colusa County,Colusa Co. Sheriff's Department,Arson_sum,3
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,Arson_sum,232
+2021,Del Norte County,Del Norte Co. Sheriff's Department,Arson_sum,19
+2021,El Dorado County,El Dorado Co. Sheriff's Department,Arson_sum,12
+2021,Fresno County,Fresno Co. Sheriff's Department,Arson_sum,183
+2021,Glenn County,Glenn Co. Sheriff's Department,Arson_sum,12
+2021,Humboldt County,Humboldt Co. Sheriff's Department,Arson_sum,69
+2021,Imperial County,Imperial Co. Sheriff's Department,Arson_sum,131
+2021,Inyo County,Inyo Co. Sheriff's Department,Arson_sum,5
+2021,Kern County,Kern Co. Sheriff's Department,Arson_sum,468
+2021,Kings County,Kings Co. Sheriff's Department,Arson_sum,14
+2021,Lake County,Lake Co. Sheriff's Department,Arson_sum,22
+2021,Lassen County,Lassen Co. Sheriff's Department,Arson_sum,4
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,Arson_sum,4810
+2021,Madera County,Madera Co. Sheriff's Department,Arson_sum,30
+2021,Marin County,Marin Co. Sheriff's Department,Arson_sum,32
+2021,Mariposa County,Mariposa Co. Sheriff's Department,Arson_sum,3
+2021,Mendocino County,Mendocino Co. Sheriff's Department,Arson_sum,34
+2021,Merced County,Merced Co. Sheriff's Department,Arson_sum,191
+2021,Modoc County,Modoc Co. Sheriff's Department,Arson_sum,3
+2021,Mono County,Mono Co. Sheriff's Department,Arson_sum,2
+2021,Monterey County,Monterey Co. Sheriff's Department,Arson_sum,67
+2021,Napa County,Napa Co. Sheriff's Department,Arson_sum,12
+2021,Nevada County,Nevada Co. Sheriff's Department,Arson_sum,8
+2021,Orange County,Orange Co. Sheriff's Department,Arson_sum,360
+2021,Placer County,Placer Co. Sheriff's Department,Arson_sum,58
+2021,Plumas County,Plumas Co. Sheriff's Department,Arson_sum,4
+2021,Riverside County,Riverside Co. Sheriff's Department,Arson_sum,234
+2021,Sacramento County,Sacramento Co. Sheriff's Department,Arson_sum,317
+2021,San Benito County,San Benito Co. Sheriff's Department,Arson_sum,15
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,Arson_sum,515
+2021,San Diego County,San Diego Co. Sheriff's Department,Arson_sum,426
+2021,San Francisco County,San Francisco,Arson_sum,380
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,Arson_sum,285
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,Arson_sum,66
+2021,San Mateo County,San Mateo Co. Sheriff's Department,Arson_sum,99
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,Arson_sum,79
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,Arson_sum,459
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,Arson_sum,74
+2021,Shasta County,Shasta Co. Sheriff's Department,Arson_sum,0
+2021,Sierra County,Sierra Co. Sheriff's Department,Arson_sum,0
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,Arson_sum,0
+2021,Solano County,Solano Co. Sheriff's Department,Arson_sum,182
+2021,Sonoma County,Sonoma Co. Sheriff's Department,Arson_sum,67
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,Arson_sum,206
+2021,Sutter County,Sutter Co. Sheriff's Department,Arson_sum,17
+2021,Tehama County,Tehama Co. Sheriff's Department,Arson_sum,44
+2021,Trinity County,Trinity Co. Sheriff's Department,Arson_sum,14
+2021,Tulare County,Tulare Co. Sheriff's Department,Arson_sum,68
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,Arson_sum,7
+2021,Ventura County,Ventura Co. Sheriff's Department,Arson_sum,140
+2021,Yolo County,Yolo Co. Sheriff's Department,Arson_sum,38
+2021,Yuba County,Yuba Co. Sheriff's Department,Arson_sum,28

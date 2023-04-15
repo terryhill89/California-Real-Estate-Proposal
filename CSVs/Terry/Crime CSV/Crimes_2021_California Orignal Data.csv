@@ -1,0 +1,59 @@
+Year,County_name,County_dept,Violent_sum,Homicide_sum,Rape_sum,Robbery_sum,AggAssault_sum,PropertyCrime_sum,Burglary_sum,VehicleTheft_sum,LarcenyTheft_sum,Arson_sum
+2021,Alameda County,Alameda Co. Sheriff's Department,10436,146,7918,4575,5149,61156,14273,15516,39699,486
+2021,Alpine County,Alpine Co. Sheriff's Department,19,0,0,0,17,23,19,1,14,0
+2021,Amador County,Amador Co. Sheriff's Department,135,4,23,13,109,716,312,77,506,3
+2021,Butte County,Butte Co. Sheriff's Department,1110,13,178,120,826,4785,1925,916,3051,80
+2021,Calaveras County,Calaveras Co. Sheriff's Department,185,2,6,4,144,677,441,109,385,0
+2021,Colusa County,Colusa Co. Sheriff's Department,55,0,20,11,35,316,188,52,189,3
+2021,Contra Costa County,Contra Costa Co. Sheriff's Department,4002,50,1638,1004,2695,22571,6815,4323,15512,232
+2021,Del Norte County,Del Norte Co. Sheriff's Department,230,1,50,33,152,570,469,93,312,19
+2021,El Dorado County,El Dorado Co. Sheriff's Department,531,6,59,43,384,2318,1232,167,1644,12
+2021,Fresno County,Fresno Co. Sheriff's Department,7405,87,1688,1070,5842,25108,15676,4994,14177,183
+2021,Glenn County,Glenn Co. Sheriff's Department,115,0,10,6,94,352,198,70,205,12
+2021,Humboldt County,Humboldt Co. Sheriff's Department,670,8,288,141,430,3783,2282,708,2180,69
+2021,Imperial County,Imperial Co. Sheriff's Department,560,14,126,87,436,3208,2231,538,1809,131
+2021,Inyo County,Inyo Co. Sheriff's Department,121,0,31,19,91,337,194,51,203,5
+2021,Kern County,Kern Co. Sheriff's Department,6718,124,1999,1249,4990,29208,13005,8843,14858,468
+2021,Kings County,Kings Co. Sheriff's Department,686,11,110,79,517,2324,1019,517,1365,14
+2021,Lake County,Lake Co. Sheriff's Department,393,5,68,41,295,1188,788,314,540,22
+2021,Lassen County,Lassen Co. Sheriff's Department,80,0,9,6,61,379,254,61,211,4
+2021,Los Angeles County,Los Angeles Co. Sheriff's Department,58177,841,26655,15642,37731,18771,88031,58224,133660,4810
+2021,Madera County,Madera Co. Sheriff's Department,1022,5,93,55,844,3344,1042,509,1569,30
+2021,Marin County,Marin Co. Sheriff's Department,348,1,174,99,209,3807,1246,489,2816,32
+2021,Mariposa County,Mariposa Co. Sheriff's Department,80,5,2,2,63,242,90,16,187,3
+2021,Mendocino County,Mendocino Co. Sheriff's Department,473,8,51,33,379,1216,783,178,726,34
+2021,Merced County,Merced Co. Sheriff's Department,1833,27,378,314,1477,7200,3251,1466,4430,191
+2021,Modoc County,Modoc Co. Sheriff's Department,13,0,0,0,9,56,31,11,20,3
+2021,Mono County,Mono Co. Sheriff's Department,33,1,2,1,24,107,56,12,71,2
+2021,Monterey County,Monterey Co. Sheriff's Department,2035,14,634,381,1433,7124,3658,1211,4489,67
+2021,Napa County,Napa Co. Sheriff's Department,578,0,108,66,443,1927,713,244,1397,12
+2021,Nevada County,Nevada Co. Sheriff's Department,238,4,26,18,189,881,590,130,514,8
+2021,Orange County,Orange Co. Sheriff's Department,8144,71,3103,1912,5259,58821,22152,8480,41251,360
+2021,Placer County,Placer Co. Sheriff's Department,740,4,191,126,210,5832,1949,773,4226,58
+2021,Plumas County,Plumas Co. Sheriff's Department,178,0,0,4,159,269,202,22,166,4
+2021,Riverside County,Riverside Co. Sheriff's Department,7201,111,2223,1607,4952,50113,20378,10385,31365,234
+2021,Sacramento County,Sacramento Co. Sheriff's Department,5034,107,3159,1798,5573,34457,12745,6306,22796,317
+2021,San Benito County,San Benito Co. Sheriff's Department,292,1,50,34,218,562,268,86,374,15
+2021,San Bernardino County,San Bernardino Co. Sheriff's Department,12736,177,3761,2173,9532,38777,16767,8690,23152,515
+2021,San Diego County,San Diego Co. Sheriff's Department,12286,113,3749,2440,8837,54262,22587,11712,34932,426
+2021,San Francisco County,San Francisco,4996,56,2811,2297,45265,64153,19074,6091,31861,380
+2021,San Joaquin County,San Joaquin Co. Sheriff's Department,5371,63,1587,1046,3984,17515,6886,2700,4293,285
+2021,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,903,2,129,81,736,5270,2411,480,3825,66
+2021,San Mateo County,San Mateo Co. Sheriff's Department,1687,18,897,522,855,15291,5497,2320,10752,99
+2021,Santa Barbara County,Santa Barbara Co. Sheriff's Department,1726,18,439,271,1216,9642,4493,1800,6055,79
+2021,Santa Clara County,Santa Clara Co. Sheriff's Department,6800,57,3125,1759,4004,41997,17382,9136,25671,459
+2021,Santa Cruz County,Santa Cruz Co. Sheriff's Department,1052,12,284,192,735,5478,1944,723,3975,74
+2021,Shasta County,Shasta Co. Sheriff's Department,27,0,0,0,26,380,40,245,117,0
+2021,Sierra County,Sierra Co. Sheriff's Department,6,0,0,0,6,50,26,11,26,0
+2021,Siskiyou County,Siskiyou Co. Sheriff's Department,259,4,27,14,218,704,376,166,388,0
+2021,Solano County,Solano Co. Sheriff's Department,2294,32,928,602,1390,10474,4009,2153,6742,182
+2021,Sonoma County,Sonoma Co. Sheriff's Department,1946,9,205,201,1434,6707,2331,953,4827,67
+2021,Stanislaus County,Stanislaus Co. Sheriff's Department,2740,26,806,503,2002,10966,3851,1831,7378,206
+2021,Sutter County,Sutter Co. Sheriff's Department,414,5,107,65,305,2355,775,474,509,17
+2021,Tehama County,Tehama Co. Sheriff's Department,355,2,74,47,232,1289,676,280,730,44
+2021,Trinity County,Trinity Co. Sheriff's Department,83,1,12,7,70,221,188,36,112,14
+2021,Tulare County,Tulare Co. Sheriff's Department,1635,42,440,266,1403,9082,3692,1819,5737,68
+2021,Tuolumne County,Tuolumne Co. Sheriff's Department,322,1,32,19,175,951,716,68,221,7
+2021,Ventura County,Ventura Co. Sheriff's Department,1758,20,679,432,1091,12161,4365,1204,9226,140
+2021,Yolo County,Yolo Co. Sheriff's Department,689,5,424,150,459,5503,2133,619,4027,38
+2021,Yuba County,Yuba Co. Sheriff's Department,354,6,117,70,243,1284,547,293,709,28
