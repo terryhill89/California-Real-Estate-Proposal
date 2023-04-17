@@ -4,6 +4,15 @@
 
 Real estate is a significant asset class, with investments ranging from residential properties to commercial buildings, industrial facilities, and undeveloped land. The real estate market is dynamic and impacted by factors such as economic conditions, demographics, and government policies. With the increase in interest rate and house prices, an analysis of real estate market will highlight school and neighborhood characteristics across the state of California.
 
+## Dashboard design
+A prototype design of the dashboard is created using moqups app, to design the wireframe of what the final product of our project would look like.
+Here is image of the wireframe versus final dashboard design.
+![California-Real-Estate-Proposal\Dashboard wireframe.png]
+
+versus
+
+
+
 ## SQLite database
 An SQLite database was constructed for this project (Creating_SQLite_Database.ipynb)
   * the SQLite database contains four tables each representing the topics covered by the members:
