@@ -7,7 +7,7 @@ Real estate is a significant asset class, with investments ranging from resident
 ## Dashboard design
 A prototype design of the dashboard is created using the moqups app to design the wireframe of our project's final product. Here is the image of the wireframe versus the final dashboard design.
 
-![](California-Real-Estate-Proposal\Dashboard wireframe.png)
+![](California-Real-Estate-Proposal/Dashboard wireframe.png)
 
 versus
 
