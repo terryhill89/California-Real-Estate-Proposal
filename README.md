@@ -7,7 +7,7 @@ Real estate is a significant asset class, with investments ranging from resident
 ## Dashboard design
 A prototype design of the dashboard is created using the moqups app to design the wireframe of our project's final product. Here is the image of the wireframe.
 
-![](Dashboard wireframe.png)
+![](https://github.com/terryhill89/California-Real-Estate-Proposal/blob/main/Dashboard%20wireframe.png)
 
 ## SQLite database
 An SQLite database was constructed for this project (Creating_SQLite_Database.ipynb)
